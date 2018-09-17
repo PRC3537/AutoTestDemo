@@ -1,0 +1,1 @@
+package com.http.api.testcases;import com.http.api.utils.RequestUtils;/** * @program: HttpAutoTest * @description: 登录测试 * @author: gonghuihui * @create: 2018-09-12 11:00 **/public class TestLogin {}
