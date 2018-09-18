@@ -1,0 +1,1 @@
+package com.http.api.testcases;import org.apache.http.HttpRequest;/** * @program: AutoTestDemo * @description: http-request库的使用 * @author: gonghuihui * @create: 2018-09-18 19:40 **/public class TestHttpGet {}
